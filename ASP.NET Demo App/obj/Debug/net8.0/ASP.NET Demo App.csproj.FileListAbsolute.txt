@@ -1,0 +1,25 @@
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\appsettings.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\ASP.NET Demo App.exe
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\ASP.NET Demo App.deps.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\ASP.NET Demo App.runtimeconfig.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\ASP.NET Demo App.dll
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\bin\Debug\net8.0\ASP.NET Demo App.pdb
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.AssemblyInfoInputs.cache
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.AssemblyInfo.cs
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.csproj.CoreCompileInputs.cache
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Demo App.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Demo App.props
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Demo App.props
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Demo App.props
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Demo App.styles.css
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.dll
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\refint\ASP.NET Demo App.dll
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.pdb
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ASP.NET Demo App.genruntimeconfig.cache
+c:\Users\ganat\Jay\Projects\Websites\.NET\repos\ASP.NET Demo App\ASP.NET Demo App\obj\Debug\net8.0\ref\ASP.NET Demo App.dll

@@ -1,0 +1,33 @@
+GET http://localhost:5021/tasks/1
+
+###
+
+GET http://localhost:5021/todos
+
+### Add a new todo
+POST http://localhost:5021/todos
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "Use C#",
+    "dueDate": "2024-12-31",
+    "isCompleted": false
+}
+
+### Get a todo by id
+GET http://localhost:5021/todos/2
+
+### Delete a todo by id
+DELETE http://localhost:5021/todos/4
+
+### Update a todo by id
+PUT http://localhost:5021/todos/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Deploy C#",
+    "dueDate": "2024-12-31",
+    "isCompleted": true
+}
